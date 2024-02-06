@@ -14,12 +14,12 @@
 # Inspect what is inside the DB on the web
 ./run.sh web
 
-# Declarative approach (from desired schema)
-./run.sh apply
-
 # Versioned migrations (change-based migrations)
 # replace `NAME` with a proper title
 ./run.sh migrate NAME
+
+# Apply changes (from desired schema)
+./run.sh apply
 ```
 
 # Walkthough Example
