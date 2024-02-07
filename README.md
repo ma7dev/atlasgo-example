@@ -1,4 +1,4 @@
-# Prerequests....
+# Prerequisites
 - Install `Docker`
 - Install `atlasgo` using this link: https://atlasgo.io/getting-started/#installation
 - From your terminal, login to `atlasgo` using `atlas login` and follow the instructions
